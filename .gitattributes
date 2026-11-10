@@ -1,0 +1,11 @@
+# Keep the exact bytes of the Visual Studio project (CRLF line endings, UTF-8 BOM).
+*.cpp -text
+*.h -text
+*.slnx -text
+*.vcxproj -text
+*.vcxproj.filters -text
+*.txt -text
+*.md text
+
+# Show the headers as C++ in the language statistics.
+*.h linguist-language=C++

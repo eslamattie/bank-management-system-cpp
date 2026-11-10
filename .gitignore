@@ -1,0 +1,72 @@
+# Visual Studio user files and caches
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+*.opendb
+*.ipch
+*.aps
+ipch/
+copilot-chat/
+
+# Build output
+x64/
+x86/
+Win32/
+Debug/
+Release/
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.obj
+*.o
+*.idb
+*.pch
+*.iobj
+*.ipdb
+*.exp
+*.tlog
+*.recipe
+*.lastbuildstate
+*.log
+*.Build.CppClean.log
+*.obj.dt.d.json
+*.obj.dt.module.json
+*.obj.dt.module.json.command
+
+# Created by system("pause>0") when the program runs
+/0
+
+# Archives and backups
+*.rar
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.bak
+*.tmp
+*~
+
+# Secrets (safety net)
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+
+# OS and editor files
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Note: there is no *.txt rule on purpose.
+# Clients.txt, Users.txt, LoginRegister.txt and TransferLog.txt are part of the repository.
