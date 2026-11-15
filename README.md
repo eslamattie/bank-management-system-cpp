@@ -1,4 +1,4 @@
-﻿# Bank Management System
+# Bank Management System
 
 Das ist ein einfaches Bankprogramm mit C++.
 
